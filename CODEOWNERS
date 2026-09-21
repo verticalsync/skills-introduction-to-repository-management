@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @verticalsync
+/src/backend/database.py      @verticalsync
+/src/backend/routers/auth.py  @verticalsync
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @verticalsync
